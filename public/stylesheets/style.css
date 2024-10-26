@@ -1,0 +1,39 @@
+ * {
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+  }
+
+  h1 {
+    font-style: italic
+  }
+
+  #title {
+    color: darkgrey;
+  }
+
+  h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+p {
+   text-align: center;
+}
+
+#link {
+  list-style-type: none;
+}
+
+.seccion {
+  border: 0.8pt solid #c1bdbd;
+}
+
+<section id="secciondatos" class="seccion"> ... </section>
+  <section id="seccionredes" class="seccion"> ... </section>
+  <section id="seccionhabilidades" class="seccion"> ... </section>
+  <section id="seccionidiomas" class="seccion"> ... </section>
+  <section id="secciontransversales" class="seccion"> ... </section>
+  <section id="secciongaleria" class="seccion"> ... </section>
+  <section id="seccioncontactenos" class="seccion"> ... </section>
