@@ -37,3 +37,7 @@ p {
   <section id="secciontransversales" class="seccion"> ... </section>
   <section id="secciongaleria" class="seccion"> ... </section>
   <section id="seccioncontactenos" class="seccion"> ... </section>
+
+  #seccionidiomas table {
+    margin: 0 auto;
+}
